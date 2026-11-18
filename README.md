@@ -51,5 +51,5 @@ An automated, cross-module enterprise incident and security orchestration platfo
 ![Client Outage Case](client_outage_case.png)
 
 ### 4. CMDB Server CI Isolation (`cmdb_ci_server`)
-![CMDB Server Status](cmdb_server_non_operational.png)
+![CMDB Server Status](cmdb_server_isolated.png)
 
